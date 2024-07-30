@@ -133,7 +133,6 @@ article::after{
     border-bottom-color:currentColor;color:#dddddd;
 }
 
-
 .poster::after{
     content:'';
     position:absolute;
@@ -148,14 +147,9 @@ article::after{
     color:#dddddd;
 }
 
-h5{
-    padding-left: 26px;
-}
-
 .name_email{
     display: flex;
 }
-
 
 .name_email img{
     width: 64px;
