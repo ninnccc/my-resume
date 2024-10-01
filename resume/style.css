@@ -151,12 +151,12 @@ article::after{
 }
 
 
-.name_email{
+.name-email{
     display: flex;
 }
 
 
-.name_email img{
+.name-email img{
     width: 64px;
     height: 64px;
     border-radius: 50px;
@@ -164,7 +164,7 @@ article::after{
     margin-left: 21px;
 }
 
-.name_email ul{
+.name-email ul{
     margin-top: 50px;
     margin-right: 39px;
     list-style: none;
@@ -179,7 +179,7 @@ h2{
     margin-left: 21px;
 }
 
-.work_list{
+.work-list{
     list-style: none;
 }
 
@@ -197,51 +197,3 @@ aside{
 .web-practise ul a{
     color: #000000;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-/*
-nav {
-    padding: 30px 15px;
-    text-align: right;
-    background-color: #22222227;
-}
-nav a {
-    margin-left: 15px;
-    text-decoration: none;
-    color: black;
-}
-
-section {
-    box-sizing: border-box;
-    padding: 30px 250px;
-    justify-content: center;
-    
-}
-
-h1 {
-    text-align: center;
-    
-}
-
-p {
-    display: block;
-    margin: 0 auto;
-}
-
-ul {
-    margin-left: 3%;
-}
-
-p, h2, form{
-    margin-left: 5%
-}*/
